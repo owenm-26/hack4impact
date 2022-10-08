@@ -1,0 +1,20 @@
+.body{
+    
+    font: sans-serrif;
+    text-align: center;
+    font-weight: normal;
+}
+
+.Class_Schedule{
+    background:#F1A2A2;
+    column-count: 3;
+    column-gap: 55px;
+    opacity: 1;
+
+}
+
+.BU_image{
+    width: 50%;
+    height: auto;
+    
+}
